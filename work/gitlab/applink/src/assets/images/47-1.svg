@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="907.218" height="907.218" viewBox="0 0 907.218 907.218">
+    <defs>
+        <style>
+            .dasombg-1{fill:none}.dasombg-2{clip-path:url(#clip-path)}.dasombg-3{fill:url(#linear-gradient)}
+        </style>
+        <clipPath id="clip-path">
+            <path d="M0 0h907.218v907.218H0z" class="dasombg-1"/>
+        </clipPath>
+        <linearGradient id="linear-gradient" x1="1.003" x2=".035" y1=".744" y2=".717" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fdb491"/>
+            <stop offset="1" stop-color="#ea5b5a"/>
+        </linearGradient>
+    </defs>
+    <g id="구성_요소_47_1" class="dasombg-2" data-name="구성 요소 47 – 1">
+        <rect id="사각형_3352" width="644" height="639" class="dasombg-3" data-name="사각형 3352" rx="182" transform="rotate(45 225.92 545.42)"/>
+    </g>
+</svg>
